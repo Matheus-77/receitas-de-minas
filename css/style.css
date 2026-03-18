@@ -1,3 +1,4 @@
-li {color: blue;}
-h4 {color: blue}
-p {background-color:rgb(223, 192, 122)}
+body 
+    {background-color:rgb(242, 207, 143)}
+    li {color: rgb(95, 58, 4);}
+    h4 {color: rgb(95, 58, 4);}
